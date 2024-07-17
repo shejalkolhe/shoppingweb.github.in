@@ -1,0 +1,23 @@
+
+     	.jumbotron
+     	 {
+               background-color:#ebba34;
+     		padding:2rem 2rem;
+     		display:flex;
+     		flex-direction:  row;
+     	}
+     	.jumbotron img
+     	{
+     		width:400px;
+     	}
+     	.bg-custom{
+     		background-color:#ebba34;
+     	}
+          .nav-link, .navbar-brand{
+
+               color:green;
+          }
+          .navbar-text a{
+               color:green;
+          }
+     
