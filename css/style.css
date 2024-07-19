@@ -20,4 +20,9 @@
           .navbar-text a{
                color:green;
           }
+
+          #about p{
+               text-align:justify;
+               user-select: none;
+          }
      
